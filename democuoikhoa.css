@@ -1,0 +1,148 @@
+.nav {
+  background: black;
+  display: flex;
+}
+.navbar-item {
+  color: white;
+  text-decoration: none;
+  padding: 20px;
+  display: block;
+  font-size: 20px;
+}
+.navbar-item:hover {
+  background-color: #fff;
+  color: #000;
+}
+body {
+  margin: 0;
+}
+.kid1 {
+  color: fuchsia;
+}
+.div2 {
+  background-image: url("imgs/pngtree-halloween-wallpapers-and-backgrounds-for-laptop-or-desktop-image_2968567.jpg");
+  background-size: 100%;
+  text-align: center;
+  width: 100%;
+  color: white;
+  font-size: 20px;
+}
+.nav4 {
+  display: flex;
+  justify-content: center;
+}
+.nav4 >.content{
+    text-align: start;
+}
+.content > a{
+    color: #fff;
+}
+.content > a:hover{
+    background-color: white;
+    color: black;
+}
+
+.imgs > img {
+  width: 100%;
+  height: 800px;
+}
+.fnaf {
+  justify-content: center;
+  display: flex;
+}
+.TC1 {
+  justify-content: center;
+  display: flex;
+}
+.TC3 {
+  justify-content: center;
+  display: flex;
+}
+.HDD {
+  justify-content: center;
+  display: flex;
+}
+.TOT {
+  justify-content: center;
+  display: flex;
+}
+.IT2 {
+  display: flex;
+  justify-content: center;
+}
+.NUN2 {
+  justify-content: center;
+  display: flex;
+}
+.ACH {
+  justify-content: center;
+  display: flex;
+}
+.HLK {
+  justify-content: center;
+  display: flex;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.single-box {
+  width: 800px;
+}
+.FOOD1 {
+  width: 900px;
+}
+.FOOD2 {
+  width: 900px;
+}
+.FOOD3 {
+  width: 900px;
+}
+.FOOD4 {
+  width: 900px;
+}
+.FOOD5 {
+  width: 900px;
+}
+.FOOD6 {
+  width: 900px;
+}
+.FOOD7 {
+  width: 900px;
+}
+.FOOD8 {
+  width: 900px;
+}
+.FOOD9 {
+  width: 900px;
+}
+.div2 > h1 {
+  margin: 0;
+  padding: 10px;
+}
+.footer {
+  width: 100%;
+  height: 200px;
+  background-color: gray;
+}
+.iconfacebook {
+  font-size: 40px;
+  margin-right: 20px;
+}
+.row > a{
+    color: #fff;
+}
+.row > a:hover {
+  color: black;
+}
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+iframe {
+  height: 500px;
+}
